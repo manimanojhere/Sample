@@ -20,5 +20,14 @@ public class GitInitial {
 	public void update3() {
         System.out.println("updated3");
 	}
+	public void update4() {
+	       System.out.println("updated");
+		}
+		public void update5() {
+	      System.out.println("updated2");
+		}
+		public void update6() {
+	        System.out.println("updated3");
+		}
 	
 }
