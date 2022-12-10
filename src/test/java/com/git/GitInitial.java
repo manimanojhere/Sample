@@ -11,6 +11,14 @@ public class GitInitial {
 	public void git3() {
 		System.out.println("git pushed ");
     }
-	
+	public void update1() {
+       System.out.println("updated");
+	}
+	public void update2() {
+      System.out.println("updated2");
+	}
+	public void update3() {
+        System.out.println("updated3");
+	}
 	
 }
